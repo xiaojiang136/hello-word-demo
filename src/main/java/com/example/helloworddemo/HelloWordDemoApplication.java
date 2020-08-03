@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HelloWordDemoApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(HelloWordDemoApplication.class, args);
+        System.out.println("小亮亮");
     }
 
 }
